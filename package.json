@@ -1,7 +1,7 @@
 {
     "name": "minenation",
     "preductname": "minenation-launcher",
-    "version": "1.0.0",
+    "version": "1",
     "description": "Launcher Mincraft pour le serveur Minenation",
     "main": "src/app.js",
     "author": {
