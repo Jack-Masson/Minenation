@@ -1,7 +1,7 @@
 {
     "name": "minenation",
     "preductname": "minenation-launcher",
-    "version": "1",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Minenation",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://localhost/launchers",
+    "url": "http://127.0.0.1/launchers/files",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
